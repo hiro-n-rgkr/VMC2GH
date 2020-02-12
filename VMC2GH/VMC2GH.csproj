@@ -56,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="VMC2GHneed.cs" />
     <Compile Include="VMC2GHComponent.cs" />
     <Compile Include="VMC2GHInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
